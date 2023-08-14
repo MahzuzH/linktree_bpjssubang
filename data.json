@@ -1,0 +1,61 @@
+{
+    "name": "BPJS Kesehatan Subang",
+    "title": "Pelayanan Untuk Administrasi Kepesertaan JKN BPJS Kesehatan Cabang Subang",
+    "avatar": "https://blog.pengajartekno.com/wp-content/uploads/2022/11/logo-bpjs-kesehatan.png",
+    "links": [
+        {
+            "title": "Layanan Update Nomor HP",
+            "href": "https://docs.google.com/forms/d/1uTtmR45E9fOlQMwmckPaiMb09jaby4Iwrho7gZBHCgk/viewform?edit_requested=true#responses",
+            "image": "https://cdn.discordapp.com/attachments/695306007169073226/1140489313252020285/Free-Person-Holding-iPhone-5-Mockup-PSD.png"
+        },
+        {
+            "title": "Layanan Pandawa BPJS Kesehatan",
+            "href": "https://api.whatsapp.com/send/?phone=628118165165",
+            "image": "https://cdn.discordapp.com/attachments/695306007169073226/1140490038182957066/image-removebg-preview_1.png"
+        },
+        {
+            "title": "Layanan Chika BPJS Kesehatan",
+            "href": "https://api.whatsapp.com/send/?phone=628118750400&text&type=phone_number&app_absent=0",
+            "image": "https://cdn.discordapp.com/attachments/695306007169073226/1140500580436033626/image.png"
+        },
+        {
+            "title": "Layanan Informasi dan Pengaduan",
+            "href": "https://sipp.bpjs-kesehatan.go.id/sipp/#/home/dashboard",
+            "image": "https://blog.pengajartekno.com/wp-content/uploads/2022/11/logo-bpjs-kesehatan.png"
+        },
+        {
+            "title": "Download Mobile JKN Android",
+            "href": "https://play.google.com/store/apps/details?id=app.bpjs.mobile&hl=en&gl=US",
+            "image": "https://play-lh.googleusercontent.com/FkmcR7in7-N8YvIZYBsYXQIvSGz6dBULJ9SlhvKsZC1NB21VFjX7zAXk_MI95daplQ"
+        },
+        {
+            "title": "Download Mobile JKN Ios",
+            "href": "https://apps.apple.com/id/app/mobile-jkn/id1237601115",
+            "image": "https://play-lh.googleusercontent.com/FkmcR7in7-N8YvIZYBsYXQIvSGz6dBULJ9SlhvKsZC1NB21VFjX7zAXk_MI95daplQ"
+        },
+        {
+            "title": "Panduan Layanan Peserta JKN",
+            "href": "https://www.bpjs-kesehatan.go.id/bpjs/arsip/view/1477",
+            "image": "https://pbs.twimg.com/media/FNZPsu-VEAI9XtT?format=jpg&name=large"
+        },
+        {
+            "title": "Jadwal BPJS Keliling Subang",
+            "href": "/calendar",
+            "image": "https://media.discordapp.net/attachments/695306007169073226/1140521410587021433/Untitled-1.png?width=671&height=671"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Instagram",
+            "href": "https://www.instagram.com/bpjskesehatan_ri/"
+        },
+        {
+            "title": "Tiktok",
+            "href": "https://www.tiktok.com/@bpjskesehatan_ri"
+        },
+        {
+            "title": "Facebook",
+            "href": "https://www.facebook.com/BPJSKesehatanRI"
+        }
+    ]
+}
