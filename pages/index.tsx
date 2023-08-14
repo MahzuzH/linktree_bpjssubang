@@ -12,10 +12,10 @@ export default function Home() {
                 width={96}
                 height={96}
             />
-            <h1 className="font-bold mt-4 text-xl text-black font-calistoga xs:text-lg">
+            <h1 className="font-bold mt-4 text-xl text-black font-calistoga xs:text-sm ">
                 {data.name}
             </h1>
-            <h2 className="mb-8 text-md text-black font-calistoga xs:text-base">
+            <h2 className="mb-8 text-md text-black font-calistoga xs:text-xs">
                 {data.title}
             </h2>
             {data.links.map((link) => (
@@ -126,10 +126,10 @@ function LinkCard({
     return (
         <a
             href={href}
-            className="flex items-center p-1 w-full rounded-full hover:scale-105 transition-all bg-gray-100 mb-3 max-w-3xl border-4 border-blue-900"
+            className="flex items-center p-1 w-full rounded-full hover:scale-105 transition-all bg-gray-100 mb-3 max-w-3xl border-4 border-blue-900 xs:h-16"
         >
             <div className="flex text-center w-full">
-                <div className="w-16 h-16">
+                <div className="w-16 h-16 xs:mt-3">
                     {image && (
                         <Image
                             className="rounded-full"
@@ -140,7 +140,7 @@ function LinkCard({
                         />
                     )}
                 </div>
-                <h2 className="flex justify-center items-center w-full -ml-10 font-calistoga xs:text-sm xs:tracking-tight xs:-ml-5 sm:text-base sm:tracking-tight md:text-base">
+                <h2 className="flex justify-center items-center w-full -ml-10 font-calistoga xs:text-xs xs:tracking-tight xs:ml-1 sm:text-base sm:tracking-tight md:text-base">
                     {title}
                 </h2>
             </div>
