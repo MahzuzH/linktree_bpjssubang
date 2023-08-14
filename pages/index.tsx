@@ -140,7 +140,7 @@ function LinkCard({
                         />
                     )}
                 </div>
-                <h2 className="flex justify-center items-center w-full -ml-10 font-calistoga xs:text-sm xs:tracking-tight sm:text-base sm:tracking-tight md:text-base">
+                <h2 className="flex justify-center items-center w-full -ml-10 font-calistoga xs:text-sm xs:tracking-tight xs:-ml-5 sm:text-base sm:tracking-tight md:text-base">
                     {title}
                 </h2>
             </div>
